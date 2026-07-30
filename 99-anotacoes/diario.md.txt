@@ -1,0 +1,22 @@
+# Diário de Estudos
+
+## Dia 1
+
+Objetivo:
+Construir uma empresa de automação com IA.
+
+Ferramentas instaladas:
+- Git
+- GitHub
+- VS Code
+- Python
+
+Aprendizados:
+- Criei meu primeiro repositório.
+- Clonei um repositório usando Git.
+
+Dificuldades:
+- Entender o comando git clone.
+
+Próximo objetivo:
+Começar Python.
